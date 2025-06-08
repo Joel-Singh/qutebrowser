@@ -34,3 +34,6 @@ egui https://docs.rs/egui/latest/egui/
 bevy gui examples https://bevyengine.org/examples/
 bevy examples https://github.com/bevyengine/bevy/tree/latest/examples
 serde https://docs.rs/serde/latest/serde/
+github https://github.com/
+nixos pkg search https://search.nixos.org/packages
+nixos wiki https://wiki.nixos.org/wiki/NixOS_Wiki
