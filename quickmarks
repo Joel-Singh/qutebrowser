@@ -37,3 +37,4 @@ serde https://docs.rs/serde/latest/serde/
 github https://github.com/
 nixos pkg search https://search.nixos.org/packages
 nixos wiki https://wiki.nixos.org/wiki/NixOS_Wiki
+settings qute://settings/
