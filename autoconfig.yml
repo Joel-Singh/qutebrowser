@@ -15,6 +15,7 @@ settings:
   content.javascript.clipboard:
     https://app.bitly.com: access-paste
     https://chatgpt.com: access-paste
+    https://discourse.nixos.org: access-paste
     https://docs.docker.com: access-paste
     https://drive.google.com: access-paste
     https://emojipedia.org: access-paste
