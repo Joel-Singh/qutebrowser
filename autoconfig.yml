@@ -9,7 +9,7 @@ settings:
   colors.webpage.darkmode.algorithm:
     global: lightness-cielab
   colors.webpage.darkmode.enabled:
-    global: true
+    global: false
   colors.webpage.darkmode.policy.images:
     global: never
   colors.webpage.preferred_color_scheme:
@@ -28,6 +28,7 @@ settings:
     https://en.wikipedia.org: access-paste
     https://garticphone.com: access-paste
     https://github.com: access-paste
+    https://hackatime.hackclub.com: access-paste
     https://minesweeper.online: access-paste
     https://play.gidd.io: access-paste
     https://skribbl.io: access-paste
