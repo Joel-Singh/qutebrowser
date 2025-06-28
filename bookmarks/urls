@@ -15,4 +15,5 @@ https://jeffkreeftmeijer.com/nix-devshells/ Managing development environments wi
 https://direnv.net/ direnv – unclutter your .profile | direnv
 https://docs.rs/bevy-inspector-egui/latest/bevy_inspector_egui/ bevy_inspector_egui - Rust
 https://app.slack.com/client/T08UN9JHVEC/C08VBPX3E3S dev (Channel) - Denison CS Summer - Slack
-https://www.delta.com/ Delta Air Lines | Flights & Plane Tickets + Hotels & Cars
+https://github.com/bevyengine/bevy/issues/16490 Text Gizmos · Issue #16490 · bevyengine/bevy
+https://github.com/bevyengine/bevy/issues/9400 Tracking issue: Amazing Gizmos · Issue #9400 · bevyengine/bevy
