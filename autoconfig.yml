@@ -18,9 +18,11 @@ settings:
     https://crawl.develz.org: true
     https://www.robotevents.com: true
     https://www.sephora.com: false
+    https://www.tracfone.com: false
   content.javascript.clipboard:
     https://app.bitly.com: access-paste
     https://chatgpt.com: access-paste
+    https://colorslurp.com: access-paste
     https://discourse.nixos.org: access-paste
     https://docs.docker.com: access-paste
     https://drive.google.com: access-paste
