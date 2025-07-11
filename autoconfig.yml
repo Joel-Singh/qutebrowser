@@ -16,6 +16,7 @@ settings:
     global: dark
   content.geolocation:
     https://crawl.develz.org: true
+    https://www.flyfrontier.com: false
     https://www.robotevents.com: true
     https://www.sephora.com: false
     https://www.tracfone.com: false
