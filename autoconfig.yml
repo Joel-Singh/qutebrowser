@@ -44,6 +44,7 @@ settings:
   content.media.audio_capture:
     https://discord.com: true
     https://teams.live.com: true
+    https://voice.google.com: true
     https://www.instagram.com: true
   content.media.audio_video_capture:
     https://teams.live.com: true
