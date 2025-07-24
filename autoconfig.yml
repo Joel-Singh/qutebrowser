@@ -57,9 +57,9 @@ settings:
     https://calendar.google.com?cid=%25s: false
     https://mail.google.com?extsrc=mailto&url=%25s: false
   url.default_page:
-    global: https://google.com/
+    global: https://duckduckgo.com/
   url.searchengines:
     global:
-      DEFAULT: https://google.com/search?q={}
+      DEFAULT: https://duckduckgo.com/search?q={}
   url.start_pages:
-    global: https://google.com
+    global: https://duckduckgo.com
