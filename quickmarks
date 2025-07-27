@@ -1,13 +1,9 @@
 bofa https://secure.bankofamerica.com/myaccounts/signin/signIn.go?returnSiteIndicator=GAIMW&langPref=en-us&request_locale=en-us&capturemode=N&newuser=false&bcIP=F
 webassign https://account.cengage.com/login
 google calendar https://calendar.google.com/calendar/u/1/r
-AGRS112 Roman Literature https://courses.denison.edu/courses/13873/modules
 courses https://courses.denison.edu/
-CS173 Intermediate Computer Science https://courses.denison.edu/courses/13769/modules
-CS234 Mathematical Foundations https://courses.denison.edu/courses/13965/modules
 gradescope https://www.gradescope.com/login
 print release https://printrelease.denison.edu:9192/app
-Row Reducer Calculator https://textbooks.math.gatech.edu/ila/demos/rrinter.html
 mydenison https://my.denison.edu/
 singh_j1 https://mail.google.com/mail/u/1/#inbox
 whattodu https://whattodu.denison.edu/web_app?id=25067&menu_id=84211&if=0&
@@ -19,15 +15,12 @@ degree evaluation https://banner.denison.edu/ords/ssb/prod/bwckcapp.P_DispCurren
 rust https://doc.rust-lang.org/std/index.html
 bevy cheatbook https://bevy-cheatbook.github.io/
 ratemyprofessor https://www.ratemyprofessors.com/
-MATH145 Calculus https://courses.denison.edu/courses/12758/modules
 Robotics Folder https://drive.google.com/drive/u/1/folders/1bXnzrV60t0_7l_PWXNmQVswF9j1fz0cX
 Coach Quicklinks https://docs.google.com/document/d/18722Qcjrh40pocWCjh7SF8Bwc0lGX98fwJLEt-iKDRA/edit?tab=t.0
 rand https://docs.rs/rand/latest/rand/
 bevy news https://bevyengine.org/news/
 tainted coders https://taintedcoders.com/
 rust book https://doc.rust-lang.org/book/
-arch package search https://archlinux.org/packages/
-aur package search https://aur.archlinux.org/
 python https://docs.python.org/3/
 bevy_egui https://docs.rs/bevy_egui/0.34.1/bevy_egui/
 egui https://docs.rs/egui/latest/egui/
@@ -42,7 +35,6 @@ academic calendar https://denison.edu/academics/calendar
 bevy github https://github.com/bevyengine/bevy
 slack https://app.slack.com/client/T08UN9JHVEC/C08TSPRJWBY
 dev docs bevy https://dev-docs.bevy.org/bevy/index.html
-pathhfinding docs https://docs.rs/pathfinding/latest/pathfinding/
 Google Voice https://voice.google.com/u/0/messages
 hyprland wiki https://wiki.hypr.land/
 sfml docs https://www.sfml-dev.org/documentation/3.0.1/
