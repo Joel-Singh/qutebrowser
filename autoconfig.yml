@@ -26,6 +26,7 @@ settings:
   content.javascript.clipboard:
     https://app.bitly.com: access-paste
     https://chatgpt.com: access-paste
+    https://colorkit.co: access-paste
     https://colorslurp.com: access-paste
     https://crates.io: access-paste
     https://discourse.nixos.org: access-paste
