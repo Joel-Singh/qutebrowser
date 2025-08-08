@@ -60,9 +60,9 @@ settings:
     https://calendar.google.com?cid=%25s: false
     https://mail.google.com?extsrc=mailto&url=%25s: false
   url.default_page:
-    global: https://duckduckgo.com/
+    global: https://baresearch.org/
   url.searchengines:
     global:
-      DEFAULT: https://duckduckgo.com/search?q={}
+      DEFAULT: https://baresearch.org/search?q={}
   url.start_pages:
-    global: https://duckduckgo.com
+    global: https://baresearch.org
