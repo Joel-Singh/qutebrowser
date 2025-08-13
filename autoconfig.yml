@@ -25,10 +25,12 @@ settings:
     https://www.tracfone.com: false
   content.javascript.clipboard:
     https://app.bitly.com: access-paste
+    https://asciiart.website: access-paste
     https://chatgpt.com: access-paste
     https://colorkit.co: access-paste
     https://colorslurp.com: access-paste
     https://crates.io: access-paste
+    https://discord.com: access-paste
     https://discourse.nixos.org: access-paste
     https://docs.docker.com: access-paste
     https://drive.google.com: access-paste
