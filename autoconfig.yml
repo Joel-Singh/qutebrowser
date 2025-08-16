@@ -57,7 +57,9 @@ settings:
     https://discord.com: true
     https://teams.live.com: true
   content.notifications.enabled:
-    global: false
+    global: true
+  content.notifications.presenter:
+    global: libnotify
   content.register_protocol_handler:
     https://calendar.google.com?cid=%25s: false
     https://mail.google.com?extsrc=mailto&url=%25s: false
