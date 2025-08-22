@@ -22,6 +22,7 @@ settings:
     https://www.google.com: true
     https://www.robotevents.com: true
     https://www.sephora.com: false
+    https://www.speedtest.net: true
     https://www.tracfone.com: false
   content.javascript.clipboard:
     https://app.bitly.com: access-paste
