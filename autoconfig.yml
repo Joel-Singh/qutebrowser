@@ -20,7 +20,7 @@ settings:
     https://crawl.develz.org: true
     https://www.flyfrontier.com: false
     https://www.google.com: true
-    https://www.ihop.com: true
+    https://www.ihop.com: false
     https://www.robotevents.com: true
     https://www.sephora.com: false
     https://www.speedtest.net: true
