@@ -37,6 +37,7 @@ settings:
     https://discourse.nixos.org: access-paste
     https://docs.docker.com: access-paste
     https://drive.google.com: access-paste
+    https://emojidb.org: access-paste
     https://emojipedia.org: access-paste
     https://en.wikipedia.org: access-paste
     https://garticphone.com: access-paste
