@@ -49,6 +49,7 @@ settings:
     https://stackoverflow.com: access-paste
     https://tagpro.koalabeast.com: access-paste
     https://web.groupme.com: access-paste
+    https://www.amazon.com: access-paste
     https://www.tumblr.com: access-paste
     https://xunit.net: access-paste
   content.media.audio_capture:
