@@ -66,7 +66,8 @@ settings:
     https://web.whatsapp.com: true
     https://www.messenger.com: true
   content.notifications.enabled:
-    global: true
+    https://calendar.google.com: false
+    https://voice.google.com: false
   content.notifications.presenter:
     global: libnotify
   content.register_protocol_handler:
