@@ -29,6 +29,7 @@ settings:
   content.javascript.clipboard:
     https://app.bitly.com: access-paste
     https://asciiart.website: access-paste
+    https://bsky.app: access-paste
     https://chatgpt.com: access-paste
     https://colorkit.co: access-paste
     https://colorslurp.com: access-paste
@@ -59,6 +60,7 @@ settings:
     https://www.instagram.com: true
     https://www.messenger.com: true
   content.media.audio_video_capture:
+    https://member.healthiestyou.com: true
     https://teams.live.com: true
   content.media.video_capture:
     https://discord.com: true
