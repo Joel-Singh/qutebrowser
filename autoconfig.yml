@@ -79,6 +79,6 @@ settings:
     global: https://baresearch.org/
   url.searchengines:
     global:
-      DEFAULT: https://baresearch.org/search?q={}
+      DEFAULT: https://google.com/search?q={}
   url.start_pages:
-    global: https://baresearch.org
+    global: https://google.com
